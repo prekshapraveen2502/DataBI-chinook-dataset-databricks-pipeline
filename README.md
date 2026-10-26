@@ -224,4 +224,4 @@ Source: Azure SQL Server hosted on `sqlserver-damg7370.database.windows.net`
 | Course | DAMG 7370 - Designing Advanced Data Architectures for Business Intelligence |
 | Semester | Spring 2026 |
 | Institution | Northeastern University, College Of Engineering |
-| Project | Midterm Team Project |
+| Project | Chinook Data Engineering Pipeline - Midterm Team Project |
